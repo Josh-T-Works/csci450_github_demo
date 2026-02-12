@@ -1,3 +1,3 @@
 # csci450_github_demo
 
-Fist edit: Dev GA made this change
+First edit: Dev GA made this change
